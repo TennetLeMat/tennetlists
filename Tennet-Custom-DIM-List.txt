@@ -1,4 +1,4 @@
-title:Tennet Custom List
+title:MyWishlist
 
 // Hullabaloo (god-pve)
 //notes: tags:god-pve
